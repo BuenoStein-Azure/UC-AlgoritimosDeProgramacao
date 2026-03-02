@@ -1,1 +1,2 @@
-# UC-AlgoritimosDePrograma-o
+# UC ALgoritimos de Programação
+Destinado para as entregas das ativadades 
